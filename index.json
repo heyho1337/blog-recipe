@@ -2,7 +2,7 @@
     "aliases": [],
     "recipes": {
         "heyhodesigns/blog": [
-            "1.0"
+            "1.0.5"
         ]
     },
     "recipe-conflicts": [],
