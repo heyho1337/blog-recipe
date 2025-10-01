@@ -1,0 +1,13 @@
+{
+    "manifests": {
+        "heyhodesigns/blog": {
+            "manifest": {
+                "copy-from-package": {
+                    "src/": "src/",
+                    "templates/@blog/": "templates/bundles/heyhodesigns/blog/"
+                }
+            },
+            "ref": "099a603dc5a4e182a5a4d4b3c76511a21acb7c40"
+        }
+    }
+}
