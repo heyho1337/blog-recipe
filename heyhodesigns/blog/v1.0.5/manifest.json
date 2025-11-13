@@ -1,6 +1,7 @@
 {
   "copy-from-package": {
         "src/": "src/",
+        "assets/": "assets/",
         "templates/@blog/": "templates/bundles/heyhodesigns/blog/"
     }
 }
